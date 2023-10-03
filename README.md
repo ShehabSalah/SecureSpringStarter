@@ -1,5 +1,8 @@
 # SecureSpringStarter
 
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/ShehabSalah/SecureSpringStarter)
+![license](https://badgen.net/github/license/ShehabSalah/SecureSpringStarter)
+
 SecureSpringStarter is a comprehensive Spring Boot project that provides robust user authentication and authorization, email and mobile verification, password management, and more. It's designed to jumpstart your application development, ensuring security is never a concern.
 
 With support for the latest Spring Boot 3.1.4 and Spring Security 6.1.4, SecureSpringStarter offers a solid foundation for implementing user authentication, authorization, email verification, and more, making it easier to build secure and feature-rich applications.
