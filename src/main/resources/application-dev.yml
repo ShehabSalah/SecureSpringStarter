@@ -1,0 +1,17 @@
+application:
+  title: SecureSpringStarter
+  version: 1.1.0
+
+server:
+  port: 8080
+  error:
+    include-binding-errors: always
+    include-message: always
+
+app:
+  jwt:
+    expirationMs: [your_jwt_token_expiration_in_milliseconds]
+    secret: [your_jwt_secret_key]
+  admin:
+    email: [your_admin_email]
+    password: [your_admin_password]
